@@ -2061,6 +2061,11 @@ form label {
   }
 }
 
+.icon-contact {
+  height: 80px;
+  width: 80px;
+}
+
 .icon-box {
   position: relative;
   display: inline-block;
