@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'jerome-cremoux'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_639fd1bd60434d3fb8ecb0ce6cba5d2e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7a9f634518904b45985d21d18921afcf }}
         package: .
