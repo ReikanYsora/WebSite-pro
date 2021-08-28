@@ -2051,6 +2051,7 @@ form label {
 .icons-panel{
   display:flex;
 	justify-content: center; 
+  flex-wrap: wrap;
 }
 
 @media screen and (max-width: 800px) {
@@ -2108,10 +2109,13 @@ form label {
 	margin-bottom:20px;
 }
 
+.list-infos > li > p{
+  font-size: 15px;
+}
+
 .list-infos > li > a > img{
 	margin-bottom:20px;
 }
-
 .media-banner {
 	padding: 3em 0;
 	background-color: rgb(237, 125, 49);
