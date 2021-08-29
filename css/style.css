@@ -2136,3 +2136,9 @@ form label {
 .media-banner:before {
 	height: 120%;
 }
+
+model-viewer {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+}
