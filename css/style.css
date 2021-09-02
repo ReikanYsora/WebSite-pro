@@ -2121,6 +2121,7 @@ form label {
 .list-infos > li > a > img{
 	margin-bottom:20px;
 }
+
 .media-banner {
 	padding: 3em 0;
 	background-color: rgb(237, 125, 49);
@@ -2135,4 +2136,9 @@ form label {
 
 .media-banner:before {
 	height: 120%;
+}
+
+.separation {
+	height: 5px;
+	background-color: rgb(15, 15, 15);
 }
