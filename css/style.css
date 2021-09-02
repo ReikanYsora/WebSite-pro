@@ -2086,7 +2086,7 @@ form label {
 
 .list-infos{
 	display:flex; 
-	justify-content: space-between; 
+	justify-content: space-evenly; 
 	list-style-type: none;
 	padding-left:0;
   flex-wrap: wrap;
